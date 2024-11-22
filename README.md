@@ -8,8 +8,8 @@
 
 **Warm Up:**
 - 5' Jump Rope  
-- 3 x 10 reps 60Kg Deadlift 
-- 3 x 10 reps 60Kg Barbell hip thrust
+- 3 x 10 reps 60Kg Deadlift rest 2'
+- 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
 
 **Reactive Strength (Plyometrics):**  
 - Free Squats (maximum effort descent-ascent with jump and pause)  
@@ -67,8 +67,8 @@
 
 **Warm Up:**  
 - 5' Jump Rope  
-- 3 x 10 reps 60Kg Deadlift 
-- 3 x 10 reps 60Kg Barbell hip thrust 
+- 3 x 10 reps 60Kg Deadlift rest 2'
+- 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
 
 **Relative Strength:**  
 - Pistol Squats  
@@ -104,8 +104,8 @@
 
 **Warm Up:**  
 - 5' Jump Rope  
-- 3 x 10 reps 60Kg Deadlift 
-- 3 x 10 reps 60Kg Barbell hip thrust 
+- 3 x 10 reps 60Kg Deadlift rest 2'
+- 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
 
 **Explosive Strength:**  
 - Squats 50Kg (maximum effort in the ascent phase with jump and pause)  
