@@ -7,17 +7,18 @@
 ### Lower Body
 
 **Warm Up:**
-- 5' Jump Rope  
+- 5' Jump Rope
+- 5 x 10 reps Bodyweight Back Extensions  
 - 3 x 10 reps 60Kg Deadlift rest 2'
 - 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
 
 **Reactive Strength (Plyometrics):**  
 - Free Squats (max effort descent-ascent with jump and pause)  
-  *(3 - 5 sets) x 10 reps / 2-3' rest*  
+  *(3 - 5 sets) x 7 reps / 3' rest*  
 
 **Isometric Strength:**  
 - Static Squat 
-  *(3 - 5 sets) x 30-60 secs / 2-3' rest*  
+  *(3 - 5 sets) x 60 secs / 3' rest*  
 
 ### Upper Body
 
@@ -33,9 +34,12 @@
 - 5 x 30'' Handstand  
 
 **Reactive Strength (Plyometrics):**  
-- (3 - 5 sets) x 10 Explosive Push-ups / Dips (max effort descent-ascent) / 2-3' rest  
-- (3 - 5 sets) x 2-3 Handstand Push-ups (max effort descent-ascent) / 2-3' rest  
-    
+- (3 - 5 sets) x 15 Explosive Push-ups / Dips 3' rest
+- (3 - 5 sets) x 10 Handstand Push-ups 3' rest
+
+**Notes:**
+- Max effort descent-ascent
+
 ---
 
 ## Tuesday
@@ -52,7 +56,7 @@
 
 ### Upper Body
 
-**Warm Up:**  
+**Warm Up:**
 - 15 x (Push-ups / Dips / Handstand Push-ups - Muscle-ups (10 - 5 - 2 reps)) rest 1'  
 - 15  x (Closed Pull-ups / Wide Pull-ups / Chin ups 5 reps) rest 1'  
 
@@ -80,7 +84,8 @@
 ### Lower Body
 
 **Warm Up:**  
-- 5' Jump Rope  
+- 5' Jump Rope
+- 5 x 10 reps Bodyweight Back Extensions
 - 3 x 10 reps 60Kg Deadlift rest 2'
 - 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
 
@@ -118,6 +123,7 @@
 
 **Warm Up:**  
 - 5' Jump Rope  
+- 5 x 10 reps Bodyweight Back Extensions
 - 3 x 10 reps 50Kg Deadlift rest 2'
 - 3 x 10 reps 50Kg Barbell Hip Thrust rest 2'
 
