@@ -1,173 +1,197 @@
-# Hybrid Training Plan
+# **🏋️ Hybrid Training Plan**
 
 ---
 
-## Monday
+## **💪 Monday**
 
-### Lower Body
+### **Lower Body**  
 
-**Warm Up:**
-- 5' Jump Rope
-- 5 x 10 reps Bodyweight Back Extensions  
-- 3 x 10 reps 60Kg Deadlift rest 2'
-- 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-**Reactive Strength (Plyometrics):**  
-- Free Squats (max effort descent-ascent with jump and pause)  
-  *(3 - 5 sets) x 7 reps / 3' rest*  
+- 🔥 **5' Jump Rope**  
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
+- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 2')*  
+- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 2')*
 
-**Isometric Strength:**  
-- Static Squat 
-  *(3 - 5 sets) x 60 secs / 3' rest*  
+![Reactive Strength](https://img.shields.io/badge/Reactive_Strength-red)
 
-### Upper Body
+- 🦵 **Free Squats** *(Max effort descent-ascent with jump and pause)*  
+  *(3-5 sets) x 7 reps / Rest 3'*  
 
-**Warm Up:**
-- 15 x (Push-ups / Dips / Handstand Push-ups - Muscle-ups (10 - 5 - 2 reps)) rest 1'  
-- 15 x (Closed Pull-ups / Wide Pull-ups / Chin ups 5 reps) rest 1'  
+![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
-**Isometric Strength:**  
-- 5 x 10'' Tuck Planche rest 3'  
-- 5 x 10'' Lean Planche rest 3'  
-- 2 x 10'' Front Lever rest 3'  
-- 2 x 10'' Back Lever rest 3'  
-- 5 x 30'' Handstand  
-
-**Reactive Strength (Plyometrics):**  
-- (3 - 5 sets) x 15 Explosive Push-ups / Dips 3' rest
-- (3 - 5 sets) x 10 Handstand Push-ups 3' rest
-
-**Notes:**
-- Max effort descent-ascent
+- 🧘 **Static Squat**  
+  *(3-5 sets) x 60 secs / Rest 3'*  
 
 ---
 
-## Tuesday
+### **Upper Body**  
 
-**Warm Up:**
-- 5 x 10 reps Bodyweight Back Extensions  
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-**Strength Endurance - Relative:**
-- 60' Running (140 - 150 bpm)  
+- 🔄 **15 rounds** of:  
+  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
+  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+
+![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
+
+- 🧘 **5 x 10'' Tuck Planche** *(Rest 3')*  
+- 🧘 **5 x 10'' Lean Planche** *(Rest 3')*  
+- 🧘 **2 x 10'' Front Lever** *(Rest 3')*  
+- 🧘 **2 x 10'' Back Lever** *(Rest 3')*  
+- 🧘 **5 x 30'' Handstand**
+
+![Reactive Strength](https://img.shields.io/badge/Reactive_Strength-red)
+
+- ⚡ **(3-5 sets) x 15 Explosive Push-ups / Dips** *(Rest 3')*  
+- ⚡ **(3-5 sets) x 10 Handstand Push-ups** *(Rest 3')*
+
+📓 **Notes:** Max effort descent-ascent.
 
 ---
 
-## Wednesday
+## **🏃 Tuesday**
 
-### Upper Body
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-**Warm Up:**
-- 15 x (Push-ups / Dips / Handstand Push-ups - Muscle-ups (10 - 5 - 2 reps)) rest 1'  
-- 15  x (Closed Pull-ups / Wide Pull-ups / Chin ups 5 reps) rest 1'  
+- 🔥 **5 x 10 reps Bodyweight Back Extensions**
 
-**Week 1 - Strength Endurance - Relative:**  
-- 10 sets x (Muscle-ups / Dips / Pull-ups / Lunges / Push-ups / Squats (3 - 10 - 7 - 20 - 20 - 40 reps)) rest 6'  
+![Strength Endurance](https://img.shields.io/badge/Strength_Endurance-orange)
 
-**Week 2 - Classic Training:**  
-- 30 sets x (Push-ups / Dips / Handstand Push-ups - Muscle-ups (14 - 7 - 5 reps)) rest 1'  
-- 30 sets x (Closed Pull-ups / Wide Pull-ups / Chin ups 7 reps) rest 1'  
+- 🏃 **60' Running** *(140-150 bpm)*  
 
-**Week 3 - Max Reps Performance (Upper/Lower):**  
-- **Muscle-ups**: 10  
-- **Bar Dips**: 30  
-- **Pull-ups**: 20  
-- **Lunges**: 100  
-- **Push-ups**: 40  
-- **Handstand Push-ups**: 10  
-- **Dips**: 30
+---
 
-**Notes:**  
+## **💪 Wednesday**
+
+### **Upper Body**
+
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
+
+- 🔄 **15 rounds** of:  
+  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
+  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+
+![Strength Endurance](https://img.shields.io/badge/Strength_Endurance-orange)
+
+- **Week 1:**  
+  - 🔄 **10 sets** of:  
+    Muscle-ups / Dips / Pull-ups / Lunges / Push-ups / Squats *(3-10-7-20-20-40 reps)* *(Rest 6')*  
+
+- **Week 2:**  
+  - 🔄 **30 sets** of:  
+    Push-ups / Dips / Handstand Push-ups / Muscle-ups *(14-7-5 reps)* *(Rest 1')*  
+    Closed Pull-ups / Wide Pull-ups / Chin-ups *(7 reps)* *(Rest 1')*
+
+- **Week 3:**  
+  - **Max Reps Performance (Upper/Lower):**  
+    - 🏋️ Muscle-ups: **10**  
+    - 🏋️ Bar Dips: **30**  
+    - 🏋️ Pull-ups: **20**  
+    - 🦵 Lunges: **100**  
+    - 🏋️ Push-ups: **40**  
+    - 🧘 Handstand Push-ups: **10**  
+    - 🏋️ Dips: **30**
+
+📓 **Notes:**  
 - Rest **3-4 min** between sets.  
-- Ensure to reach the **minimum** of **reps**
-- Perform the whole exercises **X2**
-
-### Lower Body
-
-**Warm Up:**  
-- 5' Jump Rope
-- 5 x 10 reps Bodyweight Back Extensions
-- 3 x 10 reps 60Kg Deadlift rest 2'
-- 3 x 10 reps 60Kg Barbell Hip Thrust rest 2'
-
-**Relative Strength:**  
-- Pistol Squats  
-  *(3 - 5 sets) x 6 reps / 2-3' rest*  
-  *(each leg)*  
-
-**Strength Endurance:**  
-- Free Squats / Lunges (alternating)  
-  *(5 - 10 sets) x 30-40 reps / 3-5' rest*  
+- Ensure to reach the **minimum reps**.  
+- Perform the entire exercise sequence **x2**.
 
 ---
 
-## Thursday
+### **Lower Body**
 
-**Warm Up:**
-- 5 x 10 reps Bodyweight Back Extensions  
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
+
+- 🔥 **5' Jump Rope**  
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
+- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 2')*  
+- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 2')*
+
+![Relative Strength](https://img.shields.io/badge/Relative_Strength-purple)
+
+- 🦵 **Pistol Squats** *(3-5 sets) x 6 reps per leg / Rest 2-3'*  
+
+![Strength Endurance](https://img.shields.io/badge/Strength_Endurance-orange)
+
+- 🔄 **Free Squats / Lunges (alternating)**  
+  *(5-10 sets) x 30-40 reps / Rest 3-5'*  
+
+---
+
+## **🏃 Thursday**
+
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
+
+- 🔥 **5 x 10 reps Bodyweight Back Extensions**
 
 **Week 1 - Fartlek:**  
-- 20' Warm-up  
-- 30' Fartlek *(1' hard 170-180 bpm, 2' easy 100-120 bpm)*  
-- 10' Cool-down  
+- 🌡️ **20' Warm-up**  
+- ⚡ **30' Fartlek** *(1' hard 170-180 bpm, 2' easy 100-120 bpm)*  
+- 🌬️ **10' Cool-down**
 
 **Week 2 - Intervals:**  
-- 20' Warm-up  
-- 30' Intervals *(6 x 200-300-400 rest 5')* max intensity  
-- 10' Cool-down  
+- 🌡️ **20' Warm-up**  
+- 🏁 **30' Intervals** *(6 x 200-300-400 rest 5')*  
+- 🌬️ **10' Cool-down**
 
 ---
 
-## Friday
+## **🏋️ Friday**
 
-### Lower Body
+### **Lower Body**
 
-**Warm Up:**  
-- 5' Jump Rope  
-- 5 x 10 reps Bodyweight Back Extensions
-- 3 x 10 reps 50Kg Deadlift rest 2'
-- 3 x 10 reps 50Kg Barbell Hip Thrust rest 2'
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-**Explosive Strength:**  
-- Squats 60 - 70 - 80Kg incrementally (max effort in the ascent phase with jump and pause)
-  *3 sets x 5 reps / 3' rest*  
-- Lunges 50Kg
-  *3 sets x 14 reps / 3' rest*  
+- 🔥 **5' Jump Rope**  
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
+- 🏋️ **3 x 10 reps 50Kg Deadlift** *(Rest 2')*  
+- 🏋️ **3 x 10 reps 50Kg Barbell Hip Thrust** *(Rest 2')*
 
-**Isometric Strength:**  
-- Static Squat
-  *(3 - 5 sets) x 30-60 secs / 2' rest*  
+![Explosive Strength](https://img.shields.io/badge/Explosive_Strength-red)
 
-### Upper Body
+- 🏋️ **Squats** *(60-70-80Kg max effort ascent with jump and pause)*  
+  *(3 sets) x 5 reps / Rest 3'*  
+- 🦵 **Lunges** *(50Kg)* *(3 sets) x 14 reps / Rest 3'*  
 
-**Warm Up:**  
-- 15 x (Push-ups / Dips / Handstand Push-ups - Muscle-ups (10 - 5 - 2 reps)) rest 1'  
-- 15 x (Closed Pull-ups / Wide Pull-ups / Chin ups 5 reps) rest 1'  
+![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
-**Isometric Strength:**  
-- 5 x 10'' Tuck Planche rest 3'  
-- 5 x 10'' Lean Planche rest 3'  
-- 2 x 10'' Front Lever rest 3'  
-- 2 x 10'' Back Lever rest 3'  
-- 5 x 30'' Handstand  
-
-**Explosive Strength:**  
-
-\**Max effort in the ascent phase\**  
-
-- 5 x 2-3 Muscle-ups rest 3-5'  
-- 2 x 5 Pull-ups 10Kg rest 3-5'  
-- 3 x (7-10 reps) Pull-ups 30Kg rest 3-5'  
-- 2 x 5 Dips 10Kg rest 3-5'  
-- 3 x (7-10 reps) Dips 30Kg rest 3-5'  
+- 🧘 **Static Squat** *(3-5 sets) x 30-60 secs / Rest 2'*  
 
 ---
 
-## Saturday - Sunday
+### **Upper Body**
 
-- Freestyle Calisthenics  
-- Skate  
-- Surf  
-- ...  
+![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
+
+- 🔄 **15 rounds** of:  
+  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
+  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+
+![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
+
+- ⚡ **5 x 10'' Tuck Planche** *(Rest 3')*  
+- ⚡ **5 x 10'' Lean Planche** *(Rest 3')*  
+- ⚡ **2 x 10'' Front Lever** *(Rest 3')*  
+- ⚡ **2 x 10'' Back Lever** *(Rest 3')*  
+- ⚡ **5 x 30'' Handstand**
+
+![Explosive Strength](https://img.shields.io/badge/Explosive_Strength-red)
+
+- ⚡ **5 x 2-3 Muscle-ups** *(Rest 3-5')*  
+- ⚡ **2 x 5 Pull-ups (10Kg)** *(Rest 3-5')*  
+- ⚡ **3 x (7-10 reps) Pull-ups (30Kg)** *(Rest 3-5')*  
+- ⚡ **2 x 5 Dips (10Kg)** *(Rest 3-5')*  
+- ⚡ **3 x (7-10 reps) Dips (30Kg)** *(Rest 3-5')*
 
 ---
 
+## **🏄 Saturday & Sunday**
+
+- 🎨 **Freestyle Calisthenics**  
+- 🛹 **Skate**  
+- 🌊 **Surf**  
+- 🧘 **Stretching / Recovery**  
+
+---
