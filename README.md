@@ -9,9 +9,9 @@
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
 - 🔥 **5' Jump Rope**  
-- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
-- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 2')*  
-- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 2')*
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  *(Rest 1')* 
+- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 3')*  
+- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 3')*
 
 ![Reactive Strength](https://img.shields.io/badge/Reactive_Strength-red)
 
@@ -25,13 +25,17 @@
 
 ---
 
-### **Upper Body**  
+### **Upper Body**
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-- 🔄 **15 rounds** of:  
-  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
-  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+### ** 30 Sets, 1 Set/Min**  
+
+🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups *  
+🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups *  
+🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups *
+
+---
 
 ![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
@@ -64,13 +68,19 @@
 
 ## **💪 Wednesday**
 
+---
+
 ### **Upper Body**
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-- 🔄 **15 rounds** of:  
-  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
-  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+### ** 30 Sets, 1 Set/Min**  
+
+🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups *  
+🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups *  
+🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups *
+
+---
 
 ![Strength Endurance](https://img.shields.io/badge/Strength_Endurance-orange)
 
@@ -105,9 +115,9 @@
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
 - 🔥 **5' Jump Rope**  
-- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
-- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 2')*  
-- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 2')*
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions**   *(Rest 1')* 
+- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 3')*  
+- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 3')*
 
 ![Relative Strength](https://img.shields.io/badge/Relative_Strength-purple)
 
@@ -145,15 +155,15 @@
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
 - 🔥 **5' Jump Rope**  
-- 🏋️ **5 x 10 reps Bodyweight Back Extensions**  
-- 🏋️ **3 x 10 reps 50Kg Deadlift** *(Rest 2')*  
-- 🏋️ **3 x 10 reps 50Kg Barbell Hip Thrust** *(Rest 2')*
+- 🏋️ **5 x 10 reps Bodyweight Back Extensions** *(Rest 1')* 
+- 🏋️ **3 x 10 reps 60Kg Deadlift** *(Rest 3')*  
+- 🏋️ **3 x 10 reps 60Kg Barbell Hip Thrust** *(Rest 3')*
 
 ![Explosive Strength](https://img.shields.io/badge/Explosive_Strength-red)
 
 - 🏋️ **Squats** *(60-70-80Kg max effort ascent with jump and pause)*  
   *(3 sets) x 5 reps / Rest 3'*  
-- 🦵 **Lunges** *(50Kg)* *(3 sets) x 14 reps / Rest 3'*  
+- 🦵 **Lunges** *(60Kg)* *(3 sets) x 10 reps / Rest 3'*  
 
 ![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
@@ -165,9 +175,13 @@
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-- 🔄 **15 rounds** of:  
-  - Push-ups / Dips / Handstand Push-ups / Muscle-ups *(10-5-2 reps)* *(Rest 1')*  
-  - Closed Pull-ups / Wide Pull-ups / Chin-ups *(5 reps)* *(Rest 1')*
+### ** 30 Sets, 1 Set/Min**  
+
+🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups *  
+🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups *  
+🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups *
+
+---
 
 ![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
@@ -192,6 +206,6 @@
 - 🎨 **Freestyle Calisthenics**  
 - 🛹 **Skate**  
 - 🌊 **Surf**  
-- 🧘 **Stretching / Recovery**  
+- 🧘 **Stretching / Yoga / Recovery**  
 
 ---
