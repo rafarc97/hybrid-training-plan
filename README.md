@@ -29,11 +29,10 @@
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-### **30 Sets, 1 Set/Min**  
+### **20 Sets, 1 Set/Min**   
 
-🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups*  
-🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups*  
-🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups*
+🔄 **1–10:** *10 Close/Wide/Regular Push-Ups - Dips, 5 Close/Wide/Regular Pull-Ups*   
+🔄 **11–20:** * 5 Handstand Push-Ups  / 2 Muscle-Ups, 5 Chin Pull-Ups*
 
 ---
 
@@ -74,11 +73,10 @@
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-### **30 Sets, 1 Set/Min**  
+### **20 Sets, 1 Set/Min**   
 
-🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups*  
-🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups*  
-🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups*
+🔄 **1–10:** *10 Close/Wide/Regular Push-Ups - Dips, 5 Close/Wide/Regular Pull-Ups*   
+🔄 **11–20:** * 5 Handstand Push-Ups  / 2 Muscle-Ups, 5 Chin Pull-Ups*
 
 ---
 
@@ -175,11 +173,10 @@
 
 ![Warm-Up](https://img.shields.io/badge/Warm_Up-blue)
 
-### **30 Sets, 1 Set/Min**  
+### **20 Sets, 1 Set/Min**   
 
-🔄 **1–10:** *10 Push-Ups, 5 Pull-Ups*  
-🔄 **11–20:** *10 Dips , 5 Chin Pull-Ups*  
-🔄 **21–30:** *5 Handstand Push-Ups  / 2 Muscle-Ups , 5 Close/Wide Pull-Ups*
+🔄 **1–10:** *10 Close/Wide/Regular Push-Ups - Dips, 5 Close/Wide/Regular Pull-Ups*   
+🔄 **11–20:** * 5 Handstand Push-Ups  / 2 Muscle-Ups, 5 Chin Pull-Ups*
 
 ---
 
