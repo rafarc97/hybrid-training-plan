@@ -16,12 +16,12 @@
 ![Reactive Strength](https://img.shields.io/badge/Reactive_Strength-red)
 
 - 🦵 **Free Squats** *(Max effort descent-ascent with jump and pause)*  
-  *(3-5 sets) x 7 reps / Rest 3'*  
+  *3 sets x 7 reps / Rest 3'*  
 
 ![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
 - 🧘 **Static Squat**  
-  *(3-5 sets) x 60 secs / Rest 3'*  
+  *3 sets x 60 secs / Rest 3'*  
 
 ---
 
@@ -121,12 +121,12 @@
 
 ![Relative Strength](https://img.shields.io/badge/Relative_Strength-purple)
 
-- 🦵 **Pistol Squats** *(3-5 sets) x 6 reps per leg / Rest 2-3'*  
+- 🦵 **Pistol Squats** *3 sets x 6 reps per leg / Rest 2-3'*  
 
 ![Strength Endurance](https://img.shields.io/badge/Strength_Endurance-orange)
 
 - 🔄 **Free Squats / Lunges (alternating)**  
-  *(5-10 sets) x 30-40 reps / Rest 3-5'*  
+  *5 sets x 30-40 reps / Rest 3-5'*  
 
 ---
 
@@ -162,12 +162,12 @@
 ![Explosive Strength](https://img.shields.io/badge/Explosive_Strength-red)
 
 - 🏋️ **Squats** *(60-70-80Kg max effort ascent with jump and pause)*  
-  *(3 sets) x 5 reps / Rest 3'*  
-- 🦵 **Lunges** *(60Kg)* *(3 sets) x 10 reps / Rest 3'*  
+  *3 sets x 5 reps / Rest 3'*  
+- 🦵 **Lunges** *(60Kg)* *3 sets x 10 reps / Rest 3'*  
 
 ![Isometric Strength](https://img.shields.io/badge/Isometric_Strength-green)
 
-- 🧘 **Static Squat** *(3-5 sets) x 30-60 secs / Rest 2'*  
+- 🧘 **Static Squat** *3 sets x 30-60 secs / Rest 2'*  
 
 ---
 
